@@ -1,5 +1,5 @@
 import React from 'react'
-import { Button, Container, Row, Card } from 'react-bootstrap'
+import { Button, Container } from 'react-bootstrap'
 import ClassCard from './ClassCard'
 import wall_painting from '../images/classes/wall-painting.png'
 import online_yoga from '../images/classes/online-yoga.png'
